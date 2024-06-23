@@ -31,7 +31,7 @@ By combining these components and features, the digital safe provides a secure a
 ## Flowchart
 The following flowchart outlines the process flow of the digital safe system.
 
-![Flowchart](assets\flowchart.png)
+![Flowchart](assets/flowchart.png)
 
 ## Circuit Description
 ### Components and Connections
@@ -54,7 +54,7 @@ The following flowchart outlines the process flow of the digital safe system.
 ### Circuit Schematic
 Below is the circuit schematic illustrating the connections between the microcontroller and mentioned components.
 
-![Circuit Schematic](assets\circuit.jpg)
+![Circuit Schematic](assets/circuit.jpg)
 
 ## Authors
 - Mohamed Ahmed Hamed (ID: 1190266)
